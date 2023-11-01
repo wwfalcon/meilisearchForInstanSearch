@@ -1,0 +1,2 @@
+# meilisearchForInstanSearch
+Created with CodeSandbox
